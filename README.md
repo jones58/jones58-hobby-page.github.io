@@ -1,2 +1,2 @@
 # hobby-page
-hobby page for founders and coders application
+This is a hobby page for my founders and coders application :)
