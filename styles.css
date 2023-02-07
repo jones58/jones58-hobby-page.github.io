@@ -4,7 +4,7 @@ h1 {text-align:center;}
 h2 {text-align:left;}
 h3 {text-align:center;}
 p {text-align:left;}
-img {border:#EE7263}
+img {border:solid,1,#EE7263}
 .orange-text {color:#EE7263;}
 .white-text {color:#F5F5F5;}
 a {text-decoration:None;}
