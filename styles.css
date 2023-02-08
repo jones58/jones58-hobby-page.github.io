@@ -9,4 +9,5 @@ img {border:solid,1,#EE7263;
 display:inline-block}
 .orange-text {color:#EE7263;}
 .white-text {color:#F5F5F5;}
-a {text-decoration:None;color:#172014}
+a {text-decoration:None;color:#172014;}
+.orange-bg{background-color:#EE7263;}
