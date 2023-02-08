@@ -1,5 +1,6 @@
 body {
     font-family:'Fira Sans',sans-serif;
+    font-size:16px;
     color:#172014;
     margin:0;
     background-color:#F5F5F5;
@@ -11,7 +12,7 @@ h3 {
     text-align:center;
 }
 img {
-    border:solid,1,#EE7263;
+    border:8px solid #EE7263;
 }
 .orange-text {
     color:#EE7263;
