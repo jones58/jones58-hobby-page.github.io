@@ -17,6 +17,8 @@ h3 {
 }
 img {
     border:8px solid #EE7263;
+    max-height:20%;
+    width:100%;
 }
 .orange-text {
     color:#EE7263;
