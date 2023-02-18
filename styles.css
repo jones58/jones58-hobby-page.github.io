@@ -7,12 +7,14 @@ body {
     margin:0;
 }
 
-h1, h2, h3, p {padding:0 1rem;
+h1, h2, h3, p {
             margin:0 auto;
         }
 
 h1 {
+    padding:1rem;
     font-size: 4rem;
+    line-height:3.6rem;
     text-transform: uppercase;
 }
 
