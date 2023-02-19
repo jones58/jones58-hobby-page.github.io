@@ -11,10 +11,10 @@ body {
 
 h1, h2, h3, p{
             margin:0 auto;
+            padding:1vw;
         }
 
 h1 {
-    padding:1vw;
     font-size: 10rem;
     line-height:8rem;
     text-transform: uppercase;
