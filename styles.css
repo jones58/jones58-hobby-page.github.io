@@ -22,6 +22,7 @@ h1 {
 
 h2 {
     font-size: 2rem;
+    font-weight:400;
 }
 
 h3 {
@@ -34,7 +35,7 @@ div {
 }
 
 img {
-    max-height: 20%;
+    max-height: 10%;
     width: 100%;
     display:inline-block;
 }
@@ -45,7 +46,7 @@ img {
 
 a {
     text-decoration: None;
-    color: #F5F5F5;
+    color: #EE7263;
 
 }
 
@@ -57,4 +58,8 @@ a:hover {
     text-align: right;
     padding:1vw;
     font-size:2rem;
+}
+
+.white-block {
+    background-color: #F5F5F5;
 }
