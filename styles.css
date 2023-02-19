@@ -9,13 +9,13 @@ body {
     margin:0;
 }
 
-h1, h2, h3, p{
+h1, h2, h3 {
+            padding:1vw 1vw 0;
             margin:0 auto;
-            padding:1vw;
         }
 
 h1 {
-    font-size: 10rem;
+    font-size: 4rem;
     line-height:8rem;
     text-transform: uppercase;
 }
@@ -23,6 +23,12 @@ h1 {
 h2 {
     font-size: 2rem;
     font-weight:400;
+}
+
+p { 
+    font-size:1rem;
+    margin:0 auto;
+    padding:1vw;
 }
 
 h3 {
