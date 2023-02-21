@@ -46,6 +46,7 @@ div {
 img {
     padding-bottom:2vw;
     max-height: 10%;
+    width:100vw;
     display:inline-block;
     object-fit: contain;
 }
