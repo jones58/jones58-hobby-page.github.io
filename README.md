@@ -6,5 +6,7 @@ This is a hobby page for my founders and coders application.
 - I encountered some issues with coding the site so I took a step back and decided I needed a plan. 
 - I came up with a basic plan in Figma (see the .pdf in this respository)
 - I returned to editing HTML and CSS, this time much more focussed, now I had a clear idea of what I wanted the site to look like.  
+- **Add things here **
+- From there I debugged the site using my mobile and made edits as necessary
 
 For a more detailed explanation of how I made this site over time, see the commmits. 
