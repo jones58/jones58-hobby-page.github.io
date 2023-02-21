@@ -2,6 +2,7 @@ html {
     font-family: 'Fira Sans', sans-serif;
     font-size:2vw;
     color: #172014;
+    width:100vw;
 }
 body {
     background-color: #EE7263;
@@ -45,7 +46,6 @@ div {
 img {
     padding-bottom:2vw;
     max-height: 10%;
-    width: 100%;
     display:inline-block;
     object-fit: contain;
 }
@@ -76,8 +76,7 @@ ul {
 
 footer {
     margin:0 auto;
-    width:100vw;
-    height:15vh;
+    height:4rem;
     position:fixed;
     bottom:0px;
 }
@@ -85,7 +84,6 @@ footer {
 header {
     background-color:#EE7263;
     top:0px;
-    width:100vw;
     margin:0 auto;
 }
 
