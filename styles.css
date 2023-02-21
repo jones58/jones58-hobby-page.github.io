@@ -80,3 +80,10 @@ footer {
     position:fixed;
     bottom:0px;
 }
+
+header {
+    background-color:#EE7263;
+    top:0px;
+    width:100vw;
+    margin:0 auto;
+}
