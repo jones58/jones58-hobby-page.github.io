@@ -90,5 +90,6 @@ header {
 }
 
 #last-block {
-    margin-bottom:18vh;
+    margin-bottom:4rem;
+    max-height:8rem;
 }
