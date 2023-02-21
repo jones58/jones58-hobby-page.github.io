@@ -76,9 +76,11 @@ ul {
 
 footer {
     margin:0 auto;
-    height:4rem;
+    height:5rem;
     position:fixed;
     bottom:0px;
+    width:100vw;
+    border-top: 2px solid #EE7263;;
 }
 
 header {
@@ -88,6 +90,6 @@ header {
 }
 
 #last-block {
-    margin-bottom:4rem;
-    max-height:8rem;
+    margin-bottom:6rem;
+    max-height:10rem;
 }
