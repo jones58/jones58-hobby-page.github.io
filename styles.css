@@ -1,37 +1,41 @@
 html {
     font-family: 'Fira Sans', sans-serif;
-    font-size:2vw;
+    font-size: 2vw;
     color: #172014;
-    width:100vw;
-}
-body {
-    background-color: #EE7263;
-    padding:0;
-    margin:0;
+    width: 100vw;
 }
 
-h1, h2, h3 {
-            padding:1vw 1vw 0;
-            margin:0 auto;
-        }
+body {
+    background-color: #EE7263;
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h2,
+h3 {
+    padding: 1vw 1vw 0;
+    margin: 0 auto;
+}
 
 h1 {
     font-size: 10rem;
-    line-height:8rem;
+    line-height: 8rem;
     text-transform: uppercase;
-    max-width:1080px;
+    max-width: 1080px;
+    left: 0px;
 }
 
 h2 {
     font-size: 2rem;
-    font-weight:400;
+    font-weight: 400;
 }
 
-p { 
-    font-size:1rem;
-    margin:0 auto;
-    padding:1vw;
-    line-height:1.2rem;
+p {
+    font-size: 1rem;
+    margin: 0 auto;
+    padding: 1vw;
+    line-height: 1.2rem;
 }
 
 h3 {
@@ -44,10 +48,10 @@ div {
 }
 
 img {
-    padding-bottom:2vw;
+    padding-bottom: 2vw;
     max-height: 10%;
-    width:100vw;
-    display:inline-block;
+    width: 100vw;
+    display: inline-block;
     object-fit: contain;
 }
 
@@ -57,14 +61,14 @@ a {
 
 }
 
-a:hover { 
-    color:#172014;
+a:hover {
+    color: #172014;
 }
 
 .date {
     text-align: right;
-    padding:1vw;
-    font-size:2rem;
+    padding: 1vw;
+    font-size: 2rem;
 }
 
 .white-block {
@@ -72,24 +76,26 @@ a:hover {
 }
 
 ul {
-    margin-top:1vw;
+    margin-top: 1vw;
+    left: 0px;
 }
 
 footer {
-    margin:0 auto;
-    height:5rem;
-    position:fixed;
-    bottom:0px;
-    width:100vw;
-    border-top: 2px solid #EE7263;;
+    margin: 0 auto;
+    height: 5rem;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    border-top: 2px solid #EE7263;
+    ;
 }
 
 header {
-    background-color:#EE7263;
-    top:0px;
-    margin:0 auto;
+    background-color: #EE7263;
+    top: 0px;
+    margin: 0 auto;
 }
 
 #last-block {
-    margin-bottom:6rem;
+    margin-bottom: 6rem;
 }
