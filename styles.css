@@ -1,101 +1,99 @@
 html {
-    font-family: 'Fira Sans', sans-serif;
-    font-size: 2vw;
-    color: #172014;
-    width: 100vw
+  font-family: "Fira Sans", sans-serif;
+  font-size: 2vw;
+  color: #172014;
+  width: 100vw;
 }
 
 body {
-    background-color: #EE7263;
-    padding: 0;
+  background-color: #ee7263;
+  padding: 0;
 }
 
 h1,
 h2,
 h3 {
-    padding: 1vw 1vw 0;
-    margin: 0 auto;
+  padding: 1vw 1vw 0;
+  margin: 0 auto;
 }
 
 h1 {
-    font-size: 10rem;
-    line-height: 8rem;
-    text-transform: uppercase;
-    max-width: 1080px;
-    left: 0px;
+  font-size: 10rem;
+  line-height: 8rem;
+  text-transform: uppercase;
+  max-width: 1080px;
+  left: 0px;
 }
 
 h2 {
-    font-size: 2rem;
-    font-weight: 500;
+  font-size: 2rem;
+  font-weight: 500;
 }
 
 p {
-    font-size: 1rem;
-    margin: 0 auto;
-    padding: 1vw;
-    line-height: 1.2rem;
+  font-size: 1rem;
+  margin: 0 auto;
+  padding: 1vw;
+  line-height: 1.2rem;
 }
 
 h3 {
-    text-align: center;
-    font-size: 2rem;
+  text-align: center;
+  font-size: 2rem;
 }
 
 div {
-    padding: 0;
+  padding: 0;
 }
 
 img {
-    padding-bottom: 2vw;
-    max-height: 10%;
-    width: 100vw;
-    display: inline-block;
-    object-fit: contain;
+  padding-bottom: 2vw;
+  max-height: 10%;
+  width: 100vw;
+  display: inline-block;
+  object-fit: contain;
 }
 
 a {
-    text-decoration: None;
-    color: #EE7263;
-
+  text-decoration: None;
+  color: #ee7263;
 }
 
 a:hover {
-    color: #172014;
+  color: #172014;
 }
 
 .date {
-    text-align: right;
-    padding: 1vw;
-    font-size: 2rem;
+  text-align: right;
+  padding: 1vw;
+  font-size: 2rem;
 }
 
 .white-block {
-    background-color: #F5F5F5;
+  background-color: #f5f5f5;
 }
 
 ul {
-    margin-top: 1vw;
-    margin-bottom: 0;
-    left: 0px;
+  margin-top: 1vw;
+  margin-bottom: 0;
+  left: 0px;
 }
 
 footer {
-    margin: 0 auto;
-    height: 5rem;
-    position: fixed;
-    bottom: 0;
-    width: 100vw;
-    border-top: 2px solid #EE7263;
-    ;
+  margin: 0 auto;
+  height: 5rem;
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  border-top: 2px solid #ee7263;
 }
 
 header {
-    background-color: #EE7263;
-    top: 0px;
-    margin: 0 auto;
+  background-color: #ee7263;
+  top: 0px;
+  margin: 0 auto;
 }
 
 #last-block {
-    margin-bottom: 6rem;
+  margin-bottom: 6rem;
 }
