@@ -19,4 +19,4 @@ This is a hobby page for my founders and coders application.
 - I was happy with the site but decided I wanted the site's text to be a bit longer to avoid it looking too static, like an image or .pdf. 
 - Just for fun, I used ChatGPT to generate some extra copy here. 
 
-For a more detailed explanation of how I made this site over time, see the commmits.
+For a more detailed explanation of how I made this site over time, see the commits.
