@@ -5,7 +5,6 @@ const currentDateTime = new Date().toLocaleString("en-GB", {
 });
 
 // date and time showing on page //
-//also needs to be aligned right//
 
 const dateOnPage = document.getElementById("date");
 dateOnPage.textContent = currentDateTime;

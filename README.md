@@ -18,5 +18,7 @@ This is a hobby page for my founders and coders application.
 - From there, I tested the site using my mobile and the responsive design mode in Firefox developer tools and made several edits as necessary.
 - I was happy with the site but decided I wanted the site's text to be a bit longer to avoid it looking too static, like an image or .pdf. 
 - Just for fun, I used ChatGPT to generate some extra copy here. 
+- After getting to a good level in Javascript, I read the resources on the DOM and worked out how to set the current date and time on the page. I realised I had to set the time zone to "Europe/London", instead of UTC because of Daylight Saving Time. 
+- 
 
 For a more detailed explanation of how I made this site over time, see the commits.
