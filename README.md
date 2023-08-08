@@ -1,6 +1,4 @@
 # Hobby Page
-This is a hobby page for my founders and coders application.
-
 ## Steps i took to make the website
 - I started work on the site at the Founders and Coders Meetup, using what i had learnt from FreeCodeCamp Responsive Web Design Classes.
 - I encountered some issues with coding the site so I took a step back and decided I needed a plan. 
